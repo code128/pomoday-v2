@@ -58,7 +58,7 @@ To host Pomoday locally or on your own server:
   ```
 2. Install the dependencies
   ```
-  npm install
+  npm  install
   ```
 3. Build
   ```
